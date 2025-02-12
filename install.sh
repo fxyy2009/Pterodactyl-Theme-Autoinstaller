@@ -181,7 +181,7 @@ elif [ "$SELECT_THEME" -eq 3 ]; then
   echo -e "                                                                   "
 
     # Menanyakan informasi kepada pengguna untuk tema Enigma
-    echo -e "${YELLOW}Masukkan link Telegram (https://t.me/FxyyCxx) : ${NC}"
+    echo -e "${YELLOW}Masukkan link telegram (https://t.me/FxyyCxx) : ${NC}"
     read LINK_TELEGRAM
     echo -e "${YELLOW}Masukkan link group (https://t.me/roomFxyyCx) : ${NC}"
     read LINK_GROUP
